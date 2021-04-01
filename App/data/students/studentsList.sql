@@ -1,0 +1,5 @@
+SELECT [STUDENT_ID]
+      ,[FIRSTNAME]
+      ,[LASTNAME]
+      ,[EMAIL]
+FROM  [dbo].[TBL_STUDENT]
